@@ -15,7 +15,7 @@ header {
 
     background: #333;
 
-    color: greenyellow;
+    color: Tomato;
 
     padding: 1rem 0;
     text-align: center;
@@ -25,7 +25,7 @@ header {
 
 header nav a {
 
-    color: greenyellow;
+    color: Tomato;
 
     margin: 0 1rem;
 
@@ -47,7 +47,7 @@ footer {
 
     background: #333;
 
-    color: greenyellow;
+    color: Tomato;
 
     text-align: center;
 
